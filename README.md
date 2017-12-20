@@ -206,3 +206,8 @@ Figure 6.1: Smart Calib’ plugin’s interface
 
 *Thanks to Elizabeth Crowell for giving me the first challenge: writing an ActionBar to reduce the time required for getting "only" the kymograph, and for requesting the "Report coordinates on original stack" feature.
 Thanks to Diana Zala and Patrick Pla for the intensive beta testing of the plugin, and making the necessary feedbacks.*
+
+# Reference
+
+When using the plugin, please cite the following paper:
+[Vesicular Glycolysis Provides On-Board Energy for Fast Axonal Transport, Zala, Diana et al., Cell , Volume 152 , Issue 3 , 479 - 491](http://dx.doi.org/10.1016/j.cell.2012.12.029)
