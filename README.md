@@ -18,9 +18,9 @@ First, close ImageJ in case the software is already running. Copy and paste the 
 As stated in its name, this plugin is meant to improve the way the kymograph looks. It does so by filtering the original image or stack by a process close to a "`a trou” wavelet filtering, using a gaussian as wavelet. The original image is first copied n times. Each copy is convolved by a gaussian kernel of radius n. The difference between two successive images is then computed in order to generate a wavelet plane. Several successive wavelet planes are then summed to produce the filtered image (see figure 2.1).
 
 
-![How does "Improve Kymo” work?](img/fig_2_1.jpg "How does "Improve Kymo” work?"")
+![How does "Improve Kymo" work?](img/fig_2_1.jpg "How does "Improve Kymo" work?")
 
-Figure 2.1: How does "Improve Kymo” work?
+Figure 2.1: How does "Improve Kymo" work?
 
 
 ![Improve Kymo plugin’s interface](img/fig_2_2.jpg "Improve Kymo plugin’s interface")
