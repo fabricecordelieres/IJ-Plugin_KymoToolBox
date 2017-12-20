@@ -3,7 +3,7 @@
 
 # Chapter 1: How to install the plugin?
 
-First, close ImageJ in case the software is already running. Copy and paste the KymoToolBox.jar file into the ImageJ/Plugins folder. Restart ImageJ. A KymoToolBox entry should appear under the ImageJ’s plugins menu. It contains 4 entries:
+First, close ImageJ in case the software is already running. Copy and paste the KymoToolBox.jar file you(ve downloaded from the [release section](https://github.com/fabricecordelieres/IJ_KymoToolBox/releases) into the ImageJ/Plugins folder. Restart ImageJ. A KymoToolBox entry should appear under the ImageJ’s plugins menu. It contains 4 entries:
 
 - Improve Kymo;
 - Draw Kymo;
