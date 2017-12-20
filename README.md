@@ -1,33 +1,4 @@
 # The KymoToolBox plugin
-#### F. P. Cordelières
-
-
-# Contents
-
-1. How to install the plugin?
-2. Improve kymo
-  1. What does it do?
-  2. How to use it?
-  3. Known issues (to date...) and workarounds (if any...)
-3. Draw kymo
-  1. What does it do?
-  2. How to use it?
-  3. Known issues (to date...) and workarounds (if any...)
-4. Multiple Draw kymo
-  1. What does it do?
-  2. How to use it?
-5. Analyse kymo
-  1. What does it do?
-   1.First type of output: Images
-   2. Second type of output: Results tables
-  2.How to use it?
-6. Smart Calib’
-  1. What does it do?
-  2. How to use it?
-
-
-Thanks to Elizabeth Crowell for giving me the first challenge: writing an ActionBar to reduce the time required for getting "only” the kymograph, and for requesting the "Report coordinates on original stack” feature.
-Thanks to Diana Zala and Patrick Pla for the intensive beta testing of the plugin, and making the necessary feedbacks.
 
 
 # Chapter 1: How to install the plugin?
@@ -232,3 +203,9 @@ Simply fill in all the fields of the plugin’s interface (see 6.1) then press O
 ![Smart Calib’ plugin’s interface](img/fig_6_1.jpg "Smart Calib’ plugin’s interface")
 
 Figure 6.1: Smart Calib’ plugin’s interface
+
+
+# Acknowledgments
+
+*Thanks to Elizabeth Crowell for giving me the first challenge: writing an ActionBar to reduce the time required for getting "only” the kymograph, and for requesting the "Report coordinates on original stack” feature.
+Thanks to Diana Zala and Patrick Pla for the intensive beta testing of the plugin, and making the necessary feedbacks.*
