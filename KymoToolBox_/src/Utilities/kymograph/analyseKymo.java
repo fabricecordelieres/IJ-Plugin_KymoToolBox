@@ -244,8 +244,8 @@ public class analyseKymo {
      * @return an array of double containing the extrapolated x, y coordinates
      */
     private double[] interpolate(double xCoord){
-    	int ground=(int) Math.round(xCoord-0.5);
-    	int roof=(int) Math.round(xCoord+0.5);
+    	int ground=Math.max(0, Math.min((int) Math.round(xCoord-0.5), xPath.length-1)); //Rounding and capping to the [0, xPath.length[ values
+    	int roof=Math.max(0, Math.min((int) Math.round(xCoord+0.5), xPath.length-1)); //Rounding and capping to the [0, xPath.length[ values
     	
     	double distToGround=(xCoord-ground);
     	double distToRoof=(roof-xCoord);
